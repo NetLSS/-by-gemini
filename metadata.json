@@ -1,0 +1,5 @@
+{
+  "name": "AI Bungeoppang Tycoon",
+  "description": "A cozy simulation game where you run a Korean street food stall selling Bungeoppang (fish-shaped pastries). Use AI to generate daily events and customer reviews based on your performance.",
+  "requestFramePermissions": []
+}
